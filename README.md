@@ -19,20 +19,19 @@
 
 ---
 
-## 👩‍💻 About Me
-
-```jsx
-function Khushi() {
-  return (
-    <Developer>
-      <Name>Khushi Kushwaha</Name>
-      <Role>Software Developer</Role>
-      <Education>B.Tech Computer Science</Education>
-    </Developer>
-  );
+```js
+function Intro() {
+  return {
+    Name: "Khushi Kushwaha",
+    Role: "Frontend Developer",
+    Education: "B.Tech Computer Science",
+    Focus: "Creating responsive and intuitive web experiences",
+    Approach: "Writing clean code and continuously improving"
+  };
 }
 
-export default Khushi;
+export default Intro;
+```
 
 ---
 
