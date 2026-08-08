@@ -23,7 +23,7 @@
 function Intro() {
   return {
     Name: "Khushi Kushwaha",
-    Role: "Frontend Developer",
+    Role: "Full-Stack Developer",
     Education: "B.Tech Computer Science",
     Focus: "Creating responsive and intuitive web experiences",
     Approach: "Writing clean code and continuously improving"
